@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\In
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassTypesAndValueTypes", "ClassTypesAndValueTypes\ClassTypesAndValueTypes.csproj", "{56898CE5-4CEA-4888-B9C8-EA1B5E1E524A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxingUnBoxingAndGeneric", "BoxingUnBoxingAndGeneric\BoxingUnBoxingAndGeneric.csproj", "{23FF4A07-2964-4577-A170-AA7B84C705D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoxingUnBoxingAndGeneric", "BoxingUnBoxingAndGeneric\BoxingUnBoxingAndGeneric.csproj", "{23FF4A07-2964-4577-A170-AA7B84C705D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Relationships", "Relationships\Relationships.csproj", "{2CD6B3DD-8E24-4A9A-ADCE-CC2C31A29E39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{23FF4A07-2964-4577-A170-AA7B84C705D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23FF4A07-2964-4577-A170-AA7B84C705D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23FF4A07-2964-4577-A170-AA7B84C705D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CD6B3DD-8E24-4A9A-ADCE-CC2C31A29E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD6B3DD-8E24-4A9A-ADCE-CC2C31A29E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD6B3DD-8E24-4A9A-ADCE-CC2C31A29E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD6B3DD-8E24-4A9A-ADCE-CC2C31A29E39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
